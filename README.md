@@ -1,22 +1,22 @@
-# Customer Segmentation Using K\-Means Clustering
+# Customer Segmentation Using K-Means Clustering
 
 ## Overview
 
-This project groups customers based on Annual Income and Spending Score using the K\-Means Clustering algorithm.
+This project groups customers into different segments based on their Annual Income and Spending Score using the K-Means Clustering algorithm.
 
 ## Features
 
 - Customer Segmentation
-- K\-Means Clustering
+- K-Means Clustering Algorithm
 - Interactive Streamlit Dashboard
-- Real\-Time Cluster Prediction
+- Real-Time Customer Segment Identification
 
 ## Technologies Used
 
 - Python
 - Pandas
 - NumPy
-- Scikit\-Learn
+- Scikit-Learn
 - Streamlit
 - Joblib
 
@@ -24,9 +24,12 @@ This project groups customers based on Annual Income and Spending Score using th
 
 Mall Customers Dataset
 
+## Machine Learning Algorithm
+
+K-Means Clustering
+
 ## Author
 
 Reetu H Jeeral
 
 Data Science & Machine Learning Intern
-
